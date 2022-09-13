@@ -49,13 +49,8 @@ h1 {
 
 
 .lineCards {
-
-    
-    padding-right: 100px;
     text-align: center;
     padding-top: 50px;
-    padding: 35px;
-
 }
 
 .perfilIcon {
@@ -84,7 +79,7 @@ p {
 
 body {
     
-    background-image: url(/assets/neon-tropic.png);
+    background-image: url(../assets/neon-tropic.png);
     background-repeat: repeat;
     background-size: 95vh;
    
